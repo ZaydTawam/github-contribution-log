@@ -1,6 +1,6 @@
 # github-contribution-log
 
-# Contribution [#]: [Issue Title]
+# Contribution 1: Cannot select recurrence option with keyboard
 
 **Contribution Number:** 1  
 **Student:** Zayd Tawam  
